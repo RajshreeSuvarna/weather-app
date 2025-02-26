@@ -1,3 +1,13 @@
+
+document.addEventListener("DOMContentLoaded", () => {
+    setTimeout(() => {
+        document.querySelector(".loading-screen").style.display = "none";
+        document.querySelector(".container").classList.remove("hidden");
+    }, 2000);
+});
+
+
+
 const apiKey = '89ecfc285e4c1becc2dbdd863dc046a1'; 
 
 document.getElementById('submitBtn').addEventListener('click', async () => {
