@@ -3,7 +3,9 @@ The Weather App is a simple web application that allows users to check the curre
 
 ## Technologies Used
 HTML: Structure of the web application.
+
 CSS: Styling and layout.
+
 JavaScript: Fetching and displaying real-time weather data using the OpenWeather API.
 
 ## Features
