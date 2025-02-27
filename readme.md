@@ -10,12 +10,18 @@ JavaScript: Fetching and displaying real-time weather data using the OpenWeather
 
 ## Features
 Search Functionality: Users can enter a city name to retrieve weather data.
+
 Real-Time Weather Data: Fetches data from OpenWeather API.
+
 User-Friendly Interface: Simple and visually appealing UI.
+
 Error Handling: Displays error messages for invalid city names.
+
 Responsive Design: Works on different screen sizes.
 
 ## Project Structure
 index.html: Contains the structure of the Weather App.
+
 style.css: Styles and layout for the UI.
+
 script.js: Handles API requests and updates the UI dynamically.
